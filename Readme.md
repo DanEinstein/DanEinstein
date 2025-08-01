@@ -27,7 +27,7 @@ I’m a highly motivated and self-taught developer with a deep interest in solvi
 | 🔹 **Edyfra** | A peer-learning platform that matches students based on strengths and weaknesses in CBC subjects. Includes result-based pairing, communication tools, and dashboards. |
 | 🔹 **Budget CLI App** | A Python terminal-based budgeting tool with spending categories and analytics. |
 | 🔹 **Ajicode AI** | Ajicode AI is a full stack project that is aiming at helping coding students to test their coding knowledge by taking in quizes and solving them. Also
-interview preparation is also made easier with Ajicode AI|
+                       interview preparation is also made easier with Ajicode AI|
 
 ---
 
