@@ -2,6 +2,7 @@
 
 🚀 Passionate Frontend Developer | Aspiring Full-Stack Engineer | Python Enthusiast  
 🎓 Student at Maseno University – Mathematics & Computer Science  
+🚀 Software Engineering student at power learn project 
 🏆 Winner: MUCISA Hackathon & WRRIC Hackathon 2025  
 📍 Kenya | 🌐 Building the future through tech
 
@@ -9,7 +10,7 @@
 
 ## 🧠 About Me
 
-I’m a highly motivated and self-taught developer with a deep interest in solving real-world problems using technology. My focus lies in building scalable web applications, working with modern frontend frameworks, and using Python to power intelligent systems.
+I’m a highly motivated and self-taught developer with a deep interest in solving real-world problems using technology. My focus lies in building scalable web applications, working with modern frontend frameworks, and using Python to power intelligent systems.I have recently enrolled in the power learn project which is a 16 week software engineering program. I also have interest in the evolving world of AI and believe that AI is a tool for helping programmers to come up with new and better systems that will help in solving alot of problems that we have in education, healthcare, agriculture and so on
 
 - 🔭 Currently working on **EXAECHO** — a CBC-aligned platform that generates smart past papers for learners.
 - 🌱 Learning Full-Stack Development using **React.js + Python (Flask/FastAPI)**.
@@ -25,7 +26,8 @@ I’m a highly motivated and self-taught developer with a deep interest in solvi
 | 🔹 **EXAECHO** | An AI-powered tool for generating CBC-compliant past papers across academic levels. Features smart uploading, PDF parsing, dark mode, and student performance analysis. |
 | 🔹 **Edyfra** | A peer-learning platform that matches students based on strengths and weaknesses in CBC subjects. Includes result-based pairing, communication tools, and dashboards. |
 | 🔹 **Budget CLI App** | A Python terminal-based budgeting tool with spending categories and analytics. |
-| 🔹 **Rock Paper Scissors** | A CLI game to demonstrate Python basics using loops, `randint()`, and control flow. |
+| 🔹 **Ajicode AI** | Ajicode AI is a full stack project that is aiming at helping coding students to test their coding knowledge by taking in quizes and solving them. Also
+interview preparation is also made easier with Ajicode AI|
 
 ---
 
