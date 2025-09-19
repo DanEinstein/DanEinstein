@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Danson Githuka
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=F7DF1E&width=435&lines=I'm+a+Software+Engineer;I'm+a+Full-Stack+Developer;I'm+a+Python+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=F7DF1E&width=435&lines=Feeling+bored+?;Welcome+to+my+insane+world;Aspiring+to+become+a+crazy+tech+bro+come+my+20th+birthday" alt="Typing SVG" />
 </p>
 
 <p align="left">
