@@ -1,1 +1,109 @@
-👋 Hi, I'm Danson Githuka<p align="left"><a href="https://www.google.com/search?q=https://github.com/DanEinstein"><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D30%26duration%3D4000%26pause%3D500%26color%3DF7DF1E%26width%3D435%26lines%3DI%27m%2Ba%2BSoftware%2BEngineer%3BI%27m%2Ba%2BFull-Stack%2BDeveloper%3BI%27m%2Ba%2BPython%2BEnthusiast" alt="Typing SVG" /></a></p>🚀 Passionate Frontend Developer | Aspiring Full-Stack Engineer🎓 Maseno University – Mathematics & Computer Science🚀 Power Learn Project – Software Engineering Student🏆 Winner: MUCISA Hackathon & WRRIC Hackathon 2025📍 Location: Kenya🧠 About MeI’m a highly motivated and self-taught developer with a deep interest in solving real-world problems using technology. My focus lies in building scalable web applications, working with modern frontend frameworks, and using Python to power intelligent systems. I have recently enrolled in the Power Learn Project, a 16-week software engineering program. I also have a strong interest in the evolving world of AI and believe it's a powerful tool for helping programmers create better systems to solve problems in education, healthcare, agriculture, and more.🔭 Currently working on EXAECHO — a CBC-aligned platform that generates smart past papers for learners.🌱 Learning Full-Stack Development using React.js + Python (Flask/FastAPI).👯 Collaborating on Edyfra — a smart peer-learning system to support CBC students.🧩 I believe in project-based learning and consistent self-growth.💼 Projects🔹 EXAECHOAn AI-powered tool for generating CBC-compliant past papers across academic levels. It features smart uploading, PDF parsing, dark mode, and student performance analysis.🔹 EdyfraA peer-learning platform that matches students based on their strengths and weaknesses in CBC subjects. It includes result-based pairing, communication tools, and dashboards.🔹 Budget CLI AppA Python terminal-based budgeting tool with spending categories and analytics.🔹 Ajicode AIA full-stack project aimed at helping coding students test their knowledge with quizzes and interview preparation.🧰 Tech Stack & Tools👨‍💻 Languages🚀 Frontend🧠 Backend & Tools📈 GitHub Stats📬 Let's ConnectEmail: githukadanson23@gmail.comPhone: +254 712 484 071LinkedIn: Danson GithukaPortfolio: Coming soon...“Consistency turns ordinary into extraordinary.”
+### 👋 Hi, I'm Danson Githuka
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=F7DF1E&width=435&lines=I'm+a+Software+Engineer;I'm+a+Full-Stack+Developer;I'm+a+Python+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,nodejs,html,css,postgresql,mysql,git,pandas,streamlit,scikitlearn" />
+  </a>
+</p>
+
+---
+
+🚀 Passionate Frontend Developer | Aspiring Full-Stack Engineer  
+🎓 Maseno University – Mathematics & Computer Science  
+🚀 Power Learn Project – Software Engineering Student  
+🏆 Winner: MUCISA Hackathon & WRRIC Hackathon 2025  
+📍 Location: Kenya
+
+### 🧠 About Me
+
+I’m a highly motivated and self-taught developer with a deep interest in solving real-world problems using technology. My focus lies in building scalable web applications, working with modern frontend frameworks, and using Python to power intelligent systems.
+
+I have recently enrolled in the **Power Learn Project**, a 16-week software engineering program. I also have a strong interest in the evolving world of AI and believe it's a powerful tool for helping programmers create better systems to solve problems in education, healthcare, agriculture, and more.For that reason i enrolled in the Oterman's institute AI essentials to be able to be more knowledgable when it comes to AI development, maintaining ethics and ensuring that i am providing smart solutions.
+
+🧩 I believe in project-based learning and consistent self-growth.
+
+---
+
+### 🚀 What I'm Up To
+
+- 🔭 **Currently working on:** [EXAECHO](https://github.com/DanEinstein/echo-gen-studio) — a CBC-aligned platform that generates smart past papers for learners.
+- 🌱 **Learning:** Full-Stack Development using React.js + Python (Flask/FastAPI).
+- 👯 **Collaborating on:** [Edyfra](https://github.com/Danson-G/Edyfra) — a smart peer-learning system to support CBC students.
+
+---
+
+### 💼 Projects
+
+| Project       | Description                                                                                                                            | Tech Stack                               |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| **EXAECHO**   | An AI-powered tool for generating CBC-compliant past papers. Features smart uploading, PDF parsing, dark mode, and performance analysis. | `React` `Flask` `PostgreSQL` `AI/ML`     |
+| **Edyfra**    | A peer-learning platform that matches students based on their strengths and weaknesses in CBC subjects.                                  | `React` `Node.js` `MongoDB`              |
+| **Budget CLI App** | A Python terminal-based budgeting tool with spending categories and analytics.                                                       | `Python` `CLI`                           |
+| **AjiEasy**   | An AI-powered interview prep platform that generates questions to help users prepare for technical interviews.                           | `Django` `Python` `HTML/CSS` `JS`        |
+
+---
+
+### 🧰 Tech Stack & Tools
+
+#### 👨‍💻 Languages
+!Python
+!JavaScript
+!HTML5
+!CSS3
+
+#### 🚀 Frontend
+!React
+Bootstrap
+
+
+#### 🧠 Backend & Tools
+!FastAPI
+!Node.js
+!PostgreSQL
+!MySQL
+!Django
+!Git
+!GitHub
+
+---
+#### 🌐 Data Visualization
+!pandas
+!matplotlib
+!seaborn
+streamlit
+
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanEinstein&show_icons=true&theme=radical&rank_icon=github" alt="Danson's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanEinstein&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+<p align="left">
+  <a href="mailto:githukadanson23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/danson-githuka/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="tel:+254712484071">
+    <img src="https://img.shields.io/badge/Phone-0712484071-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+</p>
+
+**Portfolio:** Coming soon...
+
+---
+
+> “Consistency turns ordinary into extraordinary.”
