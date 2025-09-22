@@ -1,106 +1,39 @@
-### 👋 Hi, I'm Danson Githuka
-
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=F7DF1E&width=850&lines=Feeling+bored+?;Welcome+to+my+insane+world;Aspiring+to+become+a+crazy+tech+bro+come+my+20th+birthday" alt="Typing SVG" />
 </p>
+# 💫 Education:
+🎓 Maseno University – Mathematics & Computer Science<br>🚀 Power Learn Project – Software Engineering Student<br>🏆 
+🚀Oterman's Institute - AI essentials student<br>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,nodejs,html,css,postgresql,mysql,git,pandas,streamlit,scikitlearn" />
-  </a>
-</p>
 
----
 
-🚀 Passionate Frontend Developer | Aspiring Full-Stack Engineer  
-🎓 Maseno University – Mathematics & Computer Science  
-🚀 Power Learn Project – Software Engineering Student  
-🏆 Winner: MUCISA Hackathon & WRRIC Hackathon 2025  
-📍 Location: Kenya
 
-### 🧠 About Me
+# 💫 Who is Einstein?:
+My name is Einstein, and I am a developer with a mission to build technology that solves real-world problems. My journey began as a self-taught programmer, which led me to specialize in creating intelligent, scalable web applications using Python and modern frontend frameworks.
 
-I’m a highly motivated and self-taught developer with a deep interest in solving real-world problems using technology. My focus lies in building scalable web applications, working with modern frontend frameworks, and using Python to power intelligent systems.
+I am actively expanding my knowledge through the Power Learn Project's software engineering program and the AI essentials course at Oterman's Institute. This focus on AI is driven by my passion for building smart, ethical systems that can improve lives in sectors like education, healthcare, and agriculture.
 
-I have recently enrolled in the **Power Learn Project**, a 16-week software engineering program. I also have a strong interest in the evolving world of AI and believe it's a powerful tool for helping programmers create better systems to solve problems in education, healthcare, agriculture, and more.For that reason i enrolled in the Oterman's institute AI essentials to be able to be more knowledgable when it comes to AI development, maintaining ethics and ensuring that i am providing smart solutions.
+🧩 I am a firm believer in project-based learning and continuous self-growth
 
-🧩 I believe in project-based learning and consistent self-growth.
 
----
 
-### 🚀 What I'm Up To
 
-- 🔭 **Currently working on:** [EXAECHO](https://github.com/DanEinstein/echo-gen-studio) — a CBC-aligned platform that generates smart past papers for learners.
-- 🌱 **Learning:** Full-Stack Development using React.js + Python (Flask/FastAPI).
-- 👯 **Collaborating on:** [Edyfra](https://github.com/Danson-G/Edyfra) — a smart peer-learning system to support CBC students.
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Einstein) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Einstein) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@danson githuka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:githukadanson23@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DanEinstein&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DanEinstein&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanEinstein&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 💼 Projects
-
-| Project       | Description                                                                                                                            | Tech Stack                               |
-|---------------|----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| **EXAECHO**   | An AI-powered tool for generating CBC-compliant past papers. Features smart uploading, PDF parsing, dark mode, and performance analysis. | `React` `Flask` `PostgreSQL` `AI/ML`     |
-| **Edyfra**    | A peer-learning platform that matches students based on their strengths and weaknesses in CBC subjects.                                  | `React` `Node.js` `MongoDB`              |
-| **Budget CLI App** | A Python terminal-based budgeting tool with spending categories and analytics.                                                       | `Python` `CLI`                           |
-| **AjiEasy**   | An AI-powered interview prep platform that generates questions to help users prepare for technical interviews.                           | `Django` `Python` `HTML/CSS` `JS`        |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=DanEinstein&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
+https://danson-githuka.vercel.app/
 
-### 🧰 Tech Stack & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanEinstein&show_icons=true&theme=radical&rank_icon=github" alt="Danson's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanEinstein&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
-### 📬 Let's Connect
-
-<p align="left">
-  <a href="mailto:githukadanson23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/danson-githuka/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="tel:+254712484071">
-    <img src="https://img.shields.io/badge/Phone-0712484071-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
-</p>
-
-**Portfolio:** Coming soon...
-
----
-
-> “Consistency turns ordinary into extraordinary.”
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
