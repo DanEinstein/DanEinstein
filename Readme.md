@@ -4,7 +4,7 @@
 
 <div align="center">
   
-![Snake animation](https://github.com/DanEinstein/DanEinstein/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanEinstein&theme=react-dark&hide_border=true&area=true&custom_title=My%20Coding%20Activity)
 
 </div>
 
@@ -39,13 +39,12 @@ I'm **Einstein**, a passionate developer focused on building practical AI soluti
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=DanEinstein&show_icons=true&theme=radical&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DanEinstein&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanEinstein&theme=radical&hide_border=true&layout=compact&hide=javascript,java)
 
 </div>
 
@@ -58,17 +57,10 @@ I'm **Einstein**, a passionate developer focused on building practical AI soluti
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:githukadanson23@gmail.com)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/Einstein)
 
-# 🔥 Current Projects
-
-- 🤖 **AI/ML Projects** - Building practical machine learning models
-- 📊 **Data Analysis** - Exploring datasets and creating visualizations  
-- 🌐 **Web Applications** - Developing full-stack solutions with Python
-- 🎓 **Learning Journey** - Continuously expanding my skills in AI and data science
-
 ---
 
 <div align="center">
 
-### ⚡ **Coding Philosophy:** *"Build, Learn, Iterate - One commit at a time"*
+### ⚡ **Currently Building:** *AI-powered applications with Python & Streamlit*
 
 </div>
