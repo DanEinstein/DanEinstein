@@ -19,7 +19,7 @@ I'm **Einstein**, a passionate developer focused on building practical AI soluti
 - **Power Learn Project** – Software Engineering Student  
 - **Oterman's Institute** – AI Essentials Student
 
-# 💻 Tech Stack
+# 💻 Tech Arsenal
 
 ### **Core Languages & Web**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
