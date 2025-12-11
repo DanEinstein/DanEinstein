@@ -11,7 +11,7 @@
 ## 🚀 About Me
 I'm a passionate developer focused on building practical AI solutions and scalable data applications. Currently exploring the intersection of machine learning, software engineering, and real-time systems.
 
-**Currently focused on:** MLOps • LLM applications • Data engineering • Scalable APIs
+**Currently focused on:**  LLM applications • Data engineering • Scalable APIs
 
 ---
 
@@ -29,7 +29,6 @@ I'm a passionate developer focused on building practical AI solutions and scalab
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### **Backend & Tools**
@@ -49,21 +48,21 @@ I'm a passionate developer focused on building practical AI solutions and scalab
   
   ### 📈 Stats Overview
   
-  <!-- GitHub Stats Card -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanEinstein&show_icons=true&theme=radical&hide_border=true&hide_title=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanEinstein&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6)
   
-  <!-- Top Languages Card -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanEinstein&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanEinstein&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=8b5cf6&text_color=ffffff)
 
-  <br/><br/>
+  <br/>
 
   ### 🔥 Contribution Streak
-  <img src="https://streak-stats.demolab.com?user=DanEinstein&theme=radical&hide_border=true&background=0D1117&fire=8B5CF6&ring=8B5CF6&currStreakNum=8B5CF6" alt="GitHub Streak" />
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=DanEinstein&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF)
 
   <br/>
 
   ### 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=DanEinstein&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DanEinstein&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -73,7 +72,7 @@ I'm a passionate developer focused on building practical AI solutions and scalab
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanEinstein&theme=react-dark&bg_color=0D1117&hide_border=true&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true" alt="Activity Graph" width="90%" />
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanEinstein&custom_title=Contribution%20Activity&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -83,7 +82,7 @@ I'm a passionate developer focused on building practical AI solutions and scalab
 - **Maseno University** – BSc Mathematics & Computer Science
 - **Power Learn Project** – Software Engineering Specialization
 - **Oterman's Institute** – AI & Machine Learning
-- **Self-Taught** – MLOps & Cloud Engineering
+- **Self_Taught** – Data Anaytics and Visualization
 
 ---
 
@@ -94,8 +93,6 @@ I'm a passionate developer focused on building practical AI solutions and scalab
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://danson-githuka.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danson-githuka/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:githukadanson23@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/)
 
 </div>
 
@@ -108,7 +105,7 @@ I'm a passionate developer focused on building practical AI solutions and scalab
   
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=DanEinstein&color=8B5CF6&label=Profile+Views&style=flat-square" alt="Profile views" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=DanEinstein&color=8B5CF6&label=Profile+Views&style=flat-square)
   
   *"The only way to learn is to do."*
 
