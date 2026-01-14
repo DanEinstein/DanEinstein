@@ -12,18 +12,18 @@
 
 ## About Me
 
-I’m a **tech-oriented person who likes building things and understanding how systems work**.
+I'm a **tech-oriented person who likes building things and understanding how systems work**.
 
-I’ve worked on a few **real projects**, learned the basics of **software engineering**, and along the way found myself drawn more and more to **data** that is how it’s collected, analyzed, visualized, and eventually engineered into systems.
+I've worked on a few **real projects**, learned the basics of **software engineering**, and along the way found myself drawn more and more to **data** that is how it's collected, analyzed, visualized, and eventually engineered into systems.
 
-Right now, I’m spending time **learning data analysis and visualization**, while keeping my software engineering mindset.  
-In the long run, I’m interested in **data engineering**, where data and software naturally come together.
+Right now, I'm spending time **learning data analysis and visualization**, while keeping my software engineering mindset.  
+In the long run, I'm interested in **data engineering**, where data and software naturally come together.
 
 Nothing fancy . Just learning, building, and improving.
 
 ---
 
-## What I’m Doing Now
+## What I'm Doing Now
 
 - Exploring **data analysis** with Python and SQL  
 - Practicing **data visualization**  
@@ -32,7 +32,7 @@ Nothing fancy . Just learning, building, and improving.
 
 ---
 
-## A Project I’m Proud Of
+## A Project I'm Proud Of
 
 ### 🚀 AJI Easy – Interview Preparation App  
 🔗 https://aji-easy-frontend.vercel.app/
@@ -62,18 +62,37 @@ Built it to:
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanEinstein&show_icons=true&theme=radical&hide_border=true)
+### Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanEinstein&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+### Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DanEinstein&theme=radical&hide_border=true)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanEinstein&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+### Detailed Activity Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanEinstein&theme=radical)
+
+### Commits & PRs Overview
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanEinstein&theme=radical" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanEinstein&theme=radical" width="400"/>
+
+### GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DanEinstein&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+### Contribution Graph
+[![Einstein's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanEinstein&theme=redical&hide_border=true)](https://github.com/DanEinstein)
 
 </div>
 
 ---
 
-## Let’s Connect
+## Let's Connect
 
 <div align="center">
 
@@ -92,6 +111,3 @@ Built it to:
 ![Profile Views](https://komarev.com/ghpvc/?username=DanEinstein&color=8B5CF6&style=flat-square)
 
 </div>
-
-
-
