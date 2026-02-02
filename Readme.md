@@ -2,7 +2,7 @@
   
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there! I'm Danson Githuka
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Problem+Solver+%F0%9F%92%A1;Math+%26+CS+Student+%F0%9F%93%9A;AI+Engineer+in+Training+%F0%9F%A4%96;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Problem+Solver+%F0%9F%92%A1;Math+%26+CS+Student+%F0%9F%93%9A;Techie+%26+Builder+%F0%9F%9A%80;Turning+Ideas+into+Reality+%F0%9F%92%BB" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -19,7 +19,7 @@ class DansonGithuka:
         self.location = "Maseno University, Kenya 🇰🇪"
         self.education = "Mathematics & Computer Science (Year 2)"
         self.philosophy = "Problem Solver First, Techie Second"
-        self.current_focus = ["AI Engineering", "LangChain", "RAG Systems"]
+        self.current_focus = ["Building Solutions", "Learning & Growing", "Solving Problems"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
@@ -74,9 +74,7 @@ I don't "battle in stacks"—I believe that in this era of AI, an engineer with 
 
 **Revolutionizing Educational YouTube Usage**
 
-Transforming scattered YouTube resources into personalized university-grade curricula using AI and LangChain.
-
-**Tech Stack:** Python • LangChain • Groq • RAG Systems
+Transforming scattered YouTube resources into personalized university-grade curricula.
 
 **Features:**
 - 📤 Upload your units and interests
@@ -89,7 +87,7 @@ Transforming scattered YouTube resources into personalized university-grade curr
 ### 💼 Aji Easy
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 
-**AI-Driven Interview Preparation Platform**
+**Interview Preparation Platform**
 
 Solving employment challenges by helping people ace their interviews.
 
@@ -107,8 +105,8 @@ Solving employment challenges by helping people ace their interviews.
 
 | Goal | Status | Details |
 |------|--------|---------|
-| 🎯 **360-Hour Sprint** | 🔄 In Progress | 3-hour daily study blocks on roadmap.sh AI Engineer path |
-| 💼 **AI Internships** | 🎯 Preparing | Focusing on Python, LangChain, and RAG applications |
+| 🎯 **360-Hour Sprint** | 🔄 In Progress | 3-hour daily study blocks on continuous learning |
+| 💼 **Tech Internships** | 🎯 Preparing | Focusing on Python and problem-solving skills |
 | 🚀 **Launch Octal-Foundry** | 🛠️ Building | Q2 2026 Target |
 
 </div>
