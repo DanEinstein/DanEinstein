@@ -1,113 +1,211 @@
-# 👋 Hey, I'm Einstein
-
 <div align="center">
+  
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there! I'm Danson Githuka
 
-### Techie | Builder | Learning Data
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Problem+Solver+%F0%9F%92%A1;Math+%26+CS+Student+%F0%9F%93%9A;AI+Engineer+in+Training+%F0%9F%A4%96;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=I+build+things;I+like+data;I+care+about+how+systems+work;Always+learning" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
-## About Me
+## 💫 About Me
 
-I'm a **tech-oriented person who likes building things and understanding how systems work**.
+```python
+class DansonGithuka:
+    def __init__(self):
+        self.username = "DanEinstein"
+        self.location = "Maseno University, Kenya 🇰🇪"
+        self.education = "Mathematics & Computer Science (Year 2)"
+        self.philosophy = "Problem Solver First, Techie Second"
+        self.current_focus = ["AI Engineering", "LangChain", "RAG Systems"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
 
-I've worked on a few **real projects**, learned the basics of **software engineering**, and along the way found myself drawn more and more to **data** that is how it's collected, analyzed, visualized, and eventually engineered into systems.
+me = DansonGithuka()
+me.say_hi()
+```
 
-Right now, I'm spending time **learning data analysis and visualization**, while keeping my software engineering mindset.  
-In the long run, I'm interested in **data engineering**, where data and software naturally come together.
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-Nothing fancy . Just learning, building, and improving.
+### 🎯 My Philosophy
 
----
+> *"Being a 'techie' isn't about fancy titles like Full Stack or AI Engineer; it's about the ability to solve the problems at hand with the tools available."*
 
-## What I'm Doing Now
-
-- Exploring **data analysis** with Python and SQL  
-- Practicing **data visualization**  
-- Building small projects to understand things better  
-- Keeping my **software engineering basics sharp**  
-
----
-
-## A Project I'm Proud Of
-
-### 🚀 AJI Easy – Interview Preparation App  
-🔗 https://aji-easy-frontend.vercel.app/
-
-A simple web app that helps job seekers prepare for interviews.
-
-Built it to:
-- Solve a real problem  
-- Practice turning ideas into working software  
-- Learn through building  
+I don't "battle in stacks"—I believe that in this era of AI, an engineer with a solid foundation can master and work with any technology.
 
 ---
 
-## Tools I Use / Learn With
+## 🏛️ Inspiration & Mentors
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌍 Global Icons
+- **Galileo Galilei** - Curiosity & Scientific Method
+- **Linus Torvalds** - Linux & Git Architecture
+
+</td>
+<td width="50%">
+
+### 🇰🇪 Kenyan Tech Leaders
+- **Michael Munavu**
+- **Bonaventure Ogeto**
+- **Rizwan Hamisi**
+- **Benaiah Galavu**
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+---
+
+## 🛠️ Current Projects
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🎓 Octal-Foundry *(In Development)*
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+**Revolutionizing Educational YouTube Usage**
+
+Transforming scattered YouTube resources into personalized university-grade curricula using AI and LangChain.
+
+**Tech Stack:** Python • LangChain • Groq • RAG Systems
+
+**Features:**
+- 📤 Upload your units and interests
+- 🗺️ Generate structured 12-week roadmaps
+- 🎯 Personalized learning paths
+- 🎓 University-grade curriculum structure
+
+---
+
+### 💼 Aji Easy
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
+**AI-Driven Interview Preparation Platform**
+
+Solving employment challenges by helping people ace their interviews.
+
+**Born from:** University skills + PLP Program learnings
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+---
+
+## 📈 Goals for 2026
+
+<div align="center">
+
+| Goal | Status | Details |
+|------|--------|---------|
+| 🎯 **360-Hour Sprint** | 🔄 In Progress | 3-hour daily study blocks on roadmap.sh AI Engineer path |
+| 💼 **AI Internships** | 🎯 Preparing | Focusing on Python, LangChain, and RAG applications |
+| 🚀 **Launch Octal-Foundry** | 🛠️ Building | Q2 2026 Target |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 📊 Data Science & ML
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### 🗄️ Databases
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🚀 Frameworks & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=DanEinstein&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=DanEinstein&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanEinstein&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanEinstein&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=DanEinstein&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## ✍️ Random Dev Quote
 
 <div align="center">
 
-### Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanEinstein&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=DanEinstein&theme=radical&hide_border=true)
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanEinstein&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-### Detailed Activity Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanEinstein&theme=radical)
-
-### Commits & PRs Overview
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanEinstein&theme=radical" width="400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanEinstein&theme=radical" width="400"/>
-
-### GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DanEinstein&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-
-### Contribution Graph
-[![Einstein's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanEinstein&theme=redical&hide_border=true)](https://github.com/DanEinstein)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
-## Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-DanEinstein-black?style=for-the-badge&logo=github)](https://github.com/DanEinstein)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dansongithuka)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:githukadanson23@gmail.com)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 💭 *"Let's build something amazing together!"*
+
+![](https://visitcount.itsvg.in/api?id=DanEinstein&icon=2&color=6)
 
 </div>
 
 ---
 
 <div align="center">
+  
+### 🐍 Watch the Snake eat my contributions!
 
-> *Just a techie, figuring things out one project at a time.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=DanEinstein&color=8B5CF6&style=flat-square)
+![Snake animation](https://github.com/DanEinstein/DanEinstein/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
