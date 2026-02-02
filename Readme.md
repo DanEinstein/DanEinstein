@@ -198,12 +198,3 @@ Solving employment challenges by helping people ace their interviews.
 
 ---
 
-<div align="center">
-  
-### 🐍 Watch the Snake eat my contributions!
-
-![Snake animation](https://github.com/DanEinstein/DanEinstein/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
