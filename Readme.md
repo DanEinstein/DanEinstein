@@ -1,12 +1,10 @@
-
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f08,40:163018,100:5d9b35&height=220&section=header&text=Danson%20Githuka&fontSize=42&fontAlignY=32&desc=I%20study%20Mathematics%20%26%20Computer%20Science%2C%20and%20I%20build%20software.&descAlignY=58&fontColor=f4f7f5&descColor=cfd8cc&animation=twinkling" alt="Danson Githuka — I study Mathematics and Computer Science, and I build software" width="100%"/>
+# Hi, I'm Danson Githuka <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="36" alt="wave">
 
-<br/>
+**I study Mathematics and Computer Science at Maseno University, and I build software.**
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=8FD45A&center=true&vCenter=true&width=780&lines=Mathematics+%26+Computer+Science%2C+Maseno+University;I+build+tools+for+cheap+hardware+and+slow+internet;Big+fan+of+AI-assisted+development;Open+to+internships+and+attachments)](https://githuka-danson.vercel.app/)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=5D9B35&center=true&vCenter=true&width=780&lines=Mathematics+%26+Computer+Science%2C+Maseno+University;I+build+tools+for+cheap+hardware+and+slow+internet;Big+fan+of+AI-assisted+development;Open+to+internships+and+attachments)](https://githuka-danson.vercel.app/)
 
 <br/>
 
@@ -102,7 +100,5 @@ Also: Django, Streamlit, PyTorch, scikit-learn, Hugging Face, NumPy, SQL.
 <div align="center">
 
 > Being a techie is not about fancy titles. It is about solving problems with the tools available.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5d9b35,100:0a0f08&height=120&section=footer&animation=twinkling" alt="" width="100%"/>
 
 </div>
